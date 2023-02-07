@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# TESTINGAL
+/package-lock.json
+.gitignore
+
 # testing
 /coverage
 
