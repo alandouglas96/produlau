@@ -11,7 +11,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(251, 245, 237);
+  cursor: url('camera.png'), auto;
 }
+
+/* iframe {
+  cursor: url('camera.png'), auto;
+  TESTINGAL
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

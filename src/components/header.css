@@ -1,0 +1,28 @@
+header {
+  width: 100vw;
+  margin-bottom: 20px;
+}
+
+.name:hover {
+  cursor: url('../heart.png'), auto;
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 10px;
+}
+
+.navigator {
+  display: flex;
+  flex-direction: row;
+}
