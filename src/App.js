@@ -5,7 +5,7 @@ import { SecondRow } from './components/second_row'
 import underConstructionGif from './assets/under_construction.webp'
 
 // ACTIVATE UNDER CONSTRUCTION
-const isUnderConstruction = true
+const isUnderConstruction = false
 
 function App() {
   return (
