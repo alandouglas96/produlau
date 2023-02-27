@@ -1,0 +1,46 @@
+section {
+  padding-bottom: 50px;
+}
+
+.rowContainer {
+  display: flex;
+  flex-direction: row;
+
+  padding: 2rem;
+}
+
+.element1 {
+  width: 25%;
+  padding: 0.5rem;
+}
+
+img {
+  width: 100%;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.element2 {
+  width: 50%;
+  padding: 0.5rem;
+}
+
+.videoPlayerContainer {
+  padding: 56.96% 0 0 0;
+  position: relative;
+}
+
+.element3 {
+  width: 25%;
+  padding: 0.5rem;
+}
+
+h3 {
+  margin: 0;
+}
