@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/produlau/static/css/main.4a66d781.css",
-    "main.js": "/produlau/static/js/main.9ba6fb45.js",
+    "main.css": "/produlau/static/css/main.a774efc5.css",
+    "main.js": "/produlau/static/js/main.66078b68.js",
     "static/js/787.55673c50.chunk.js": "/produlau/static/js/787.55673c50.chunk.js",
     "static/media/iberia_1.gif": "/produlau/static/media/iberia_1.94c5c54b70afa24af4e0.gif",
+    "static/media/chupachups.webp": "/produlau/static/media/chupachups.403a79266e69ff0ffe4a.webp",
     "static/media/RecoletaAlt-Regular.otf": "/produlau/static/media/RecoletaAlt-Regular.bf3b48f9c9df5a572d88.otf",
     "static/media/under_construction.webp": "/produlau/static/media/under_construction.ee75e4d94494a60cc587.webp",
     "index.html": "/produlau/index.html",
-    "main.4a66d781.css.map": "/produlau/static/css/main.4a66d781.css.map",
-    "main.9ba6fb45.js.map": "/produlau/static/js/main.9ba6fb45.js.map",
+    "main.a774efc5.css.map": "/produlau/static/css/main.a774efc5.css.map",
+    "main.66078b68.js.map": "/produlau/static/js/main.66078b68.js.map",
     "787.55673c50.chunk.js.map": "/produlau/static/js/787.55673c50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a66d781.css",
-    "static/js/main.9ba6fb45.js"
+    "static/css/main.a774efc5.css",
+    "static/js/main.66078b68.js"
   ]
 }
