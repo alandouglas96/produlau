@@ -5,7 +5,7 @@ import { SecondRow } from './components/second_row'
 import underConstructionGif from './assets/under_construction.webp'
 
 // ACTIVATE UNDER CONSTRUCTION
-const isUnderConstruction = false
+const isUnderConstruction = true
 
 function App() {
   return (
@@ -34,14 +34,21 @@ function UnderConstruction() {
         height: '100vh',
       }}
     >
-      <h1 style={{ textAlign: 'center', margin: 0, paddingTop: '15px' }}>
-        Under construction ♡
-      </h1>
-      <img
-        style={{ width: '80%', margin: '0 10%' }}
-        src={underConstructionGif}
-        alt="Under construction..."
-      />
+      <div
+        style={{
+          maxWidth: '1440px',
+          margin: 'auto',
+        }}
+      >
+        <h1 style={{ textAlign: 'center', margin: 0, paddingTop: '15px' }}>
+          Under construction ♡
+        </h1>
+        <img
+          style={{ width: '80%', margin: '0 10%' }}
+          src={underConstructionGif}
+          alt="Under construction..."
+        />
+      </div>
     </div>
   )
 }
