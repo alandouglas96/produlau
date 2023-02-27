@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e880091c.css",
-    "main.js": "/static/js/main.fe32df34.js",
+    "main.css": "/static/css/main.4d5fdca8.css",
+    "main.js": "/static/js/main.a1526133.js",
     "static/js/787.55673c50.chunk.js": "/static/js/787.55673c50.chunk.js",
     "static/media/iberia_1.gif": "/static/media/iberia_1.94c5c54b70afa24af4e0.gif",
     "static/media/RecoletaAlt-Regular.otf": "/static/media/RecoletaAlt-Regular.bf3b48f9c9df5a572d88.otf",
+    "static/media/under_construction.webp": "/static/media/under_construction.ee75e4d94494a60cc587.webp",
     "index.html": "/index.html",
-    "main.e880091c.css.map": "/static/css/main.e880091c.css.map",
-    "main.fe32df34.js.map": "/static/js/main.fe32df34.js.map",
+    "main.4d5fdca8.css.map": "/static/css/main.4d5fdca8.css.map",
+    "main.a1526133.js.map": "/static/js/main.a1526133.js.map",
     "787.55673c50.chunk.js.map": "/static/js/787.55673c50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e880091c.css",
-    "static/js/main.fe32df34.js"
+    "static/css/main.4d5fdca8.css",
+    "static/js/main.a1526133.js"
   ]
 }
